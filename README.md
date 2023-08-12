@@ -43,5 +43,5 @@ Just a curios dev.
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1PIHmcStYS_VIkb7GuQDGKmStTL09R7bh/view?usp=drive_link)
+![App Screenshot](https://github.com/omkar-deshmukh1804/ez-snippet-calculator/assets/58912751/534c5925-4e1b-43d7-86d1-d7dc563eb497)
 
